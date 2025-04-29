@@ -1,0 +1,4 @@
+Flask # O la versión más reciente
+pymongo # O la versión más reciente compatible con tu Atlas
+python-dotenv 
+gunicorn
